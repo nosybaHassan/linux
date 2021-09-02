@@ -1,3 +1,6 @@
 git rm --cached <file>..." -------------:to unstage
 git commit -m "start point of app" -----:tocommit with massege
 git status -----------------------------:to see state of repository
+ git push origin master
+ git remote -v
+git clone https://github.com/nosybaHassan/nosybaHassan.git
