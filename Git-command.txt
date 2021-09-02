@@ -4,3 +4,4 @@ git status -----------------------------:to see state of repository
  git push origin master
  git remote -v
 git clone https://github.com/nosybaHassan/nosybaHassan.git
+$ git remote add pb https://github.com/paulboone/ticgit
