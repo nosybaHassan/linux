@@ -1,0 +1,3 @@
+git rm --cached <file>..." -------------:to unstage
+git commit -m "start point of app" -----:tocommit with massege
+git status -----------------------------:to see state of repository

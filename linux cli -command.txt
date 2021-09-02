@@ -1,0 +1,66 @@
+https://www.webminal.org/terminal  /https://www.webminal.org/terminal/proxy/index/
+=======================================================
+User.name= AbduAbaker
+password=  123456
+==================================
+tty: tele type terminal.
+alt+ctrl+fn :n 1-12.
+tty :to know where you are.
+alt+fn :to swich bitween TTYs.
+chvt n :to swich bitween TTYs.
+id: to show user id.
+=============
+date:
+cal     :current month
+cal 8 2018 :cirten month in year
+cal 2018  :whole year
+su userName
+exit
+cd - :last working directory
+cd = cd ~ :home directory
+cd ~username :any user home
+touch :create emty file
+
+reletive path :
+------------
+cd.   :current working directory
+cd..  :parent working directory
+
+^:ctrl
+tree 
+cat
+nano
+                                                                  / : root file system
+                                                                  |
+                                                       -------------------------------------------------
+                                                      |         |            |
+                                                    home       var          usr
+                                                      |
+                                                -----------
+                                                |         |
+                                               ali       ahmed
+mkdir dir1 dir2
+mkdir path/dir3 ex:mkdir /home/ali/dirName
+cp :copy and rename Ex: cp file1 backupfile1
+
+cp  dir1/ dir2
+omitting diretory :skip cancel becouse dir1 isnot empty.
+solve:
+cp -r dir1/ dir2
+recursive:replay to all 
+mv :cut file / rename file
+rm: remove file
+rmdir:remove empty directory
+rm -r dir.name :remove full directory
+rm -rf dir.name:remove full directory by forse
+dangerous: rm -rf / :delete all system.
+rm: use --no-preserve-root to override this failsafe 
+
+genaral form:
+     ===============================
+      command [option/s] [argument/s]
+     =================================
+[] : optional
+option :chainge command behaviour.
+argu : info geven to command
+
