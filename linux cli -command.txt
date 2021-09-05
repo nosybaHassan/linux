@@ -64,3 +64,91 @@ genaral form:
 option :chainge command behaviour.
 argu : info geven to command
 
+=============================================
+ls = list.
+ls -l :long list.
+ls -a :all.
+ls -r : reverse from Z-A.
+ls -R :recursive = files & directorys & thier containts.
+________________________________
+shortcut:
+========
+^+a :first of line.
+^+e :end of line.
+^+k :delete from cursor til end.(after the pointer)
+^+u :delete from begining til the cursor.(befor the pointer)
+^+z :Stop temporary. bg : to return from background
+^+c : stop/cancel command 
+^+s :lock screan 
+^+q :unlock screan 
+ 
+ ^+d || logout || exit : logout.
+clear || ^+l : scrol new page.
+reset : clear screan
+
+shift + Page Up / Page Down.
+shutdown -r now || systemclt reboot  || reboot  || init 6 :restart.
+shutdown -h now || systemclt powerof || powerof || init 0 :shutdown.
+
+; : saparate command Ex: ls;date
+_______________________________
+Users && groups:
+================
+useradd userName : creat user. Ex: useradd ali
+id ali :to show Ali id.
+uid=101(ali) gid=101(ali) groups=1001(ali)
+uid=id(userName) gid=id(groupName) groups=memberGroups
+passwd userName :creat/chainge password.  EX: passwd ali  Pa$$w0rd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
